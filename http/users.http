@@ -1,0 +1,14 @@
+POST http://localhost:5000/api/users
+Content-Type: application/json
+
+{
+  "firstname":"Johan",
+  "lastname" :"Michel",
+  "email":"toto@michel.com",
+  "city":"Paris",
+  "language": "fr"
+}
+
+###
+
+GET http://localhost:5000/api/users/

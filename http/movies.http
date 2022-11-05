@@ -1,0 +1,14 @@
+POST http://localhost:5000/api/movies
+Content-Type: application/json
+
+{
+  "title":"Running Training",
+  "director" :"Jean Michel",
+  "year":"2019",
+  "color":true,
+  "duration":107
+}
+
+###
+
+GET http://localhost:5000/api/movies/1

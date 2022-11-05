@@ -1,3 +1,0 @@
-POST http://localhost:5001/api/movies
-
-{ "title": "The Matrix", "releaseDate": "1999-03-31T00:00:00", "genre": "Action", "price": 7.99, "rating": "R" }
