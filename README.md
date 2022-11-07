@@ -1,8 +1,8 @@
 # express-quests
 
--[] cp .env.sampl .env- [express-quests](#express-quests)
+- [ ] cp .env.sampl .env- [express-quests](#express-quests)
 
--[x] fill with your data
+- [x] fill with your data
 
 ---
 
